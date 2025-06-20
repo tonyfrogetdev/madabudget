@@ -1,0 +1,13 @@
+# Mada Budget
+
+Ce projet est une application Next.js dockerisée.
+
+## 📦 Structure du projet
+
+- `front/` : l’application front-end Next.js (submodule)
+- `docker-compose.yml` : fichier pour exécuter les services
+
+## 🚀 Lancer le projet
+
+```bash
+docker-compose up --build
